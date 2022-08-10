@@ -10,7 +10,7 @@ TECHNOLOGY USED:
 
 # Face Recognition
 
-"""This Program Contains advanced Face Recognition Feature for attendance"""
+'''This Program Contains advanced Face Recognition Feature for attendance'''
 
 FEATURES:
 1) Easy to use with interactive GUI support.
