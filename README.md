@@ -8,6 +8,11 @@ TECHNOLOGY USED:
 2) OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
 3) CSV, Numpy, Pandas, datetime etc. for other purposes.
 
+#Face Recognition
+'''
+This Program Contains advanced Face Recognition Feature for attendance 
+'''
+
 FEATURES:
 1) Easy to use with interactive GUI support.
 2) Password protection for new person registration.
